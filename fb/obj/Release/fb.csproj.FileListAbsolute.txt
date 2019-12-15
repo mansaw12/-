@@ -1,0 +1,13 @@
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\RMimic.exe
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\RMimic.pdb
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\Flazzy.dll
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\RecuperareII.dll
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\Sulakore.dll
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\Tangine.dll
+C:\Users\v\Documents\vs\fbnew\fb\bin\Release\System.Net.Http.dll
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\fb.csprojAssemblyReference.cache
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\RMimic.Properties.Resources.resources
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\fb.csproj.GenerateResource.cache
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\fb.csproj.CopyComplete
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\RMimic.exe
+C:\Users\v\Documents\vs\fbnew\fb\obj\Release\RMimic.pdb
